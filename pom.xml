@@ -7,6 +7,7 @@
     <groupId>gokan.ekinci</groupId>
     <artifactId>abstract-datasource</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
     <description>Contains classes which encapsulate datasources implementation</description>
 
     <properties>
